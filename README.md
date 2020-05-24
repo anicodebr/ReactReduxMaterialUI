@@ -1,6 +1,6 @@
 # ReactReduxMaterialUI
 <img src="https://user-images.githubusercontent.com/21184478/82745012-f798f900-9d55-11ea-98d7-941e1ca8c43b.png">
-<p style="font-size:110pt;" align="center" size="1000">React + Redux + Material Ui = Perfect Template ❤</p>
+<p align="center">React + Redux + Material Ui = Perfect Template ❤</p>
 A simple template for REACT development using Material Ui and Redux, with Axios for HTTP Client.
 
 ## Components in this template
@@ -37,5 +37,4 @@ A simple template for REACT development using Material Ui and Redux, with Axios 
 ## What's is CRACO?
 **C**reate **R**eact **A**pp **C**onfiguration **O**verride in this template is to alias the application folders globally through the craco.config.js file.
 
-
-#### Made with ❤ by Gabriel Martinusso and Felipe Correa
+<p align="center">Made with ❤ by Gabriel Martinusso and Felipe Correa</p>
