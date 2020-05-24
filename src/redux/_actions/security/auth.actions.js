@@ -20,7 +20,7 @@ function Login(data) {
         dispatch(success(authConstants.LOGIN_SUCCESS, username))
       }, [1000])
     }else{
-      dispatch(failure(authConstants.LOGIN_FAILURE, 'error', {title: "Erro:", msg: 'Usuário ou senha Inválidos!'}))
+      dispatch(failure(authConstants.LOGIN_FAILURE, 'error', {title: "Erro", msg: 'Usuário ou senha Inválidos!'}))
     }
   }
 }
