@@ -6,7 +6,7 @@ A simple template for REACT development using Material Ui and Redux, with Axios 
 ## Components in this template
 - **Material UI** - General interface
 - **Redux** - Predictable state container
-- **React** -Router-Dom - Route Controller
+- **React-Router-Dom** - Route Controller
 - **Redux Logger** - Logger for Redux
 - **Redux Thunk** - Middleware for Redux
 - **Craco** - Create React App Configuration Override
