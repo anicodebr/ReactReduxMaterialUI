@@ -37,9 +37,10 @@ const AppConstantsDefault = {
   },
 };
 
+export const AppContext = React.createContext(AppConstantsDefault);
+
 function MainContainer(props){
   const match = useRouteMatch();
-
   return(
     <Layout>
       <Switch>
@@ -48,8 +49,6 @@ function MainContainer(props){
     </Layout>
   )
 }
-
-export const AppContext = React.createContext(AppConstantsDefault);
 
 function AppContainer(props) {
   const classes = useStyles();
