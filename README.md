@@ -1,6 +1,6 @@
-# ReactReduxMaterialUI
+# ReactReduxMaterialUI Function Components Only
 <img src="https://user-images.githubusercontent.com/21184478/82745012-f798f900-9d55-11ea-98d7-941e1ca8c43b.png">
-<p align="center">React + Redux + Material Ui = Perfect Template ❤</p>
+<p align="center">React + Redux + Material Ui + Function Components = Perfect Template ❤</p>
 A simple template for REACT development using Material Ui and Redux, with Axios for HTTP Client.
 
 ## Components in this template
